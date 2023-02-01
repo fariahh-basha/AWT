@@ -12,3 +12,19 @@
 // console.log("Ouside function: "+val);
 // console.log("typeof val: "+typeof val);
      //Note: let has block-level scope
+     //---------------------------------------------------------------------------------------------------------------------------------------------------
+
+   //const Keyword
+   
+// const fav_num=999;
+// console.log("const value: ")
+// console.log("My fav number: "+fav_num)
+//  function test(){
+//     if(true){
+//         const fav_num=777;
+//         console.log("var value: ")
+//         console.log("My fav number:  "+fav_num)
+//     }
+//  }
+//  test();
+
