@@ -54,6 +54,8 @@
 //     const pi=3.141;
 //     console.log("Updated pi value: "+pi)
 // }
+
+
      //Note: Using const keyword we declare fixed values which cannot be redefined unless in different blocks
      //------------------------------------------------------------------------------------------------------------------------------------------------------
   
