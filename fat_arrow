@@ -1,0 +1,18 @@
+// const largest=(a,b)=>(a>b ? a:b)
+// console.log(largest(15,10));
+
+// const val=(x)=>{
+//     return x+1;
+// }
+//     console.log(" Incremented value: "+val(5))
+ 
+//    const arr=[5,10,15,20]
+//    const even=arr.filter((v)=>v%2==0)
+//    console.log("Array elements: "+arr)
+//    console.log("Even array elements: "+even)
+
+
+//    const sqr=(x)=>{
+//     return x*x;
+//    }
+//    console.log(sqr(11));
