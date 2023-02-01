@@ -16,3 +16,33 @@
 //     return x*x;
 //    }
 //    console.log(sqr(11));
+
+//Using This keyword
+// function employee(){
+//     this.name="Neil";
+//     this.salary=50000;
+
+//     const getVal=function(){
+//         setTimeout(()=>{
+//          console.log("Employee Details: ")
+//          console.log("Name: "+employee.name)
+//          console.log("Salary: "+employee.salary)
+//         },2000);
+//     }
+// }
+// let val=new employee();
+// console.log(val) 
+
+//Using Objects
+ // const student=()=>(
+//     {name: "Neelam",
+//     branch: "EIE",
+//     rno: "1216"
+
+// }
+// );
+  
+// console.log("Student Details: ")
+// console.log("Name: "+student().name)
+// console.log("Branch: "+student().branch)
+// console.log("Rno: "+student().rno)
