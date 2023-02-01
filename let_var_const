@@ -11,6 +11,25 @@
 // letTest();
 // console.log("Ouside function: "+val);
 // console.log("typeof val: "+typeof val);
+
+// let value=72;
+// function get(){
+//     if(true){
+//         let value=10;
+//         console.log("Inside: "+value);
+    
+//     }
+// }
+// get();
+// console.log("Outside: "+value);
+
+// function getValue(){
+//     for(let i=0; i<=10; i++){
+//       console.log(i);
+//     }
+// }
+// getValue();
+// console.log(i);
      //Note: let has block-level scope
      //---------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -27,6 +46,14 @@
 //     }
 //  }
 //  test();
+
+
+ // const pi=3.14;
+// console.log("pi value: "+pi)
+// {
+//     const pi=3.141;
+//     console.log("Updated pi value: "+pi)
+// }
      //Note: Using const keyword we declare fixed values which cannot be redefined unless in different blocks
      //------------------------------------------------------------------------------------------------------------------------------------------------------
   
@@ -44,3 +71,11 @@
 //  console.log("Outside the if-block: ")
 //     console.log("p: "+p);
 //     console.log("q: "+q);
+  
+// var fName="Neelam";
+// function getName(){
+//     var fName="Fari";
+//     console.log("Inside the function: "+fName); 
+// }
+// getName();
+// console.log("Outside the function: "+fName);
