@@ -1,0 +1,14 @@
+ // Using Let Keyword
+// let val=1
+//  function letTest(){
+//     let val=5
+//     if(val==5){
+//         let val=7;
+//         console.log("Inside if-block: "+val);
+//     }
+//     console.log("Inside function: "+val)
+// }
+// letTest();
+// console.log("Ouside function: "+val);
+// console.log("typeof val: "+typeof val);
+     //Note: let has block-level scope
