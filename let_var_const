@@ -27,4 +27,20 @@
 //     }
 //  }
 //  test();
-
+     //Note: Using const keyword we declare fixed values which cannot be redefined unless in different blocks
+     //------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  //var keyword
+//var p=11;
+// var q=22;
+//  if(p==11){
+    
+//     let p=33;
+//     var q=44;
+//     console.log("Inside the if-block: ")
+//     console.log("p: "+p);
+//     console.log("q: "+q);
+//  }
+//  console.log("Outside the if-block: ")
+//     console.log("p: "+p);
+//     console.log("q: "+q);
